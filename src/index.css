@@ -101,14 +101,14 @@ input {
   display: flex;
   align-items: start;
   gap: 2rem;
-  height: 10rem;
+  height: 12rem;
   margin-top: 2rem;
   width: 28rem;
 }
 
 .games img {
   height: 100%;
-  width: 8rem;
+  width: 10rem;
   object-fit: fill;
 }
 .games :hover img {
